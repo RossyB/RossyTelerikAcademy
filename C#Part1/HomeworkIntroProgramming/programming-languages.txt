@@ -1,0 +1,38 @@
+C#
+
+It is a compiled, multi-paradigm and object-oriented language
+written by Microsoft. It is an open specifications, but rarely seen
+on any non-Windows platform. It is very similar to Java in both
+syntax and nature.
+
+
+C++
+
+It is a compiled, multi-paradigm and object-oriented language
+written as an update to C in 1979. Despite it's age, C++ is used to
+create a wide array of applications from games to office suites.
+
+
+VisualBasic(VB)
+
+Interpreted, multi-paradigm language developed by
+Microsoft Corporation for the Windows Platform. VB is a good language
+for scripting Windows applications that do not need the power and
+the speed of C#.
+
+Java
+
+It uses a compiler, and is an object-oriented language released in
+1995 by Sun Microsystems. Java is the number one programming
+language today for many reasons.
+
+JavaScript
+
+Interpreded, multi-paradigm, and is a prototype-based
+scripting language that is dynamic, weakly typed, and has first-class
+functions. Its syntax was influenced by the language C.
+
+Php
+It uses a run-time interpreter, and is a multi-paradigm language
+originally developed in 1996 by Rasmus Lerdorf to create dynamic
+web pages.

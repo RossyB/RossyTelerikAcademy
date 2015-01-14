@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintSequence\bin\Debug\PrintSequence.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintSequence\obj\Debug\PrintSequence.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintSequence\obj\Debug\PrintSequence.pdb

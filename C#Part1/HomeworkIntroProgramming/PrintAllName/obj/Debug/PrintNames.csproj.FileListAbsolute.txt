@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintAllName\bin\Debug\PrintAllName.exe.config
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintAllName\bin\Debug\PrintAllName.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintAllName\bin\Debug\PrintAllName.pdb
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintAllName\obj\Debug\PrintAllName.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintAllName\obj\Debug\PrintAllName.pdb

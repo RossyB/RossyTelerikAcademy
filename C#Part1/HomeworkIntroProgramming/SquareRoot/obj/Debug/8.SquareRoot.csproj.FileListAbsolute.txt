@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkIntroProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\New courses\C#Part1\HomeworkIntroProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\New courses\C#Part1\HomeworkIntroProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

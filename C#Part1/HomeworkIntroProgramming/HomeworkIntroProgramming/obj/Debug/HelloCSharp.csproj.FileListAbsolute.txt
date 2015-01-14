@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\bin\Debug\HomeworkIntroProgramming.exe.config
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\bin\Debug\HomeworkIntroProgramming.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\bin\Debug\HomeworkIntroProgramming.pdb
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\obj\Debug\HomeworkIntroProgramming.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\HomeworkIntroProgramming\obj\Debug\HomeworkIntroProgramming.pdb

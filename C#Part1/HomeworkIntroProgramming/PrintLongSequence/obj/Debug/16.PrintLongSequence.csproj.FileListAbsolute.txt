@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\New courses\C#Part1\HomeworkIntroProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
