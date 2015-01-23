@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

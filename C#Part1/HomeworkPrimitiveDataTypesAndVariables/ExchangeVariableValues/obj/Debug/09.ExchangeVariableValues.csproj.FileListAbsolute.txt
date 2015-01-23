@@ -1,0 +1,3 @@
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

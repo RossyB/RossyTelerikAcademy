@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

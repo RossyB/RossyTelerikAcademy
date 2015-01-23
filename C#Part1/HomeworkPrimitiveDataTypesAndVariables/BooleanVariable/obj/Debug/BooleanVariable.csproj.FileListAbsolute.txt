@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

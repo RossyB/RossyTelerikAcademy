@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

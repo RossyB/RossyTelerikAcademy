@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb

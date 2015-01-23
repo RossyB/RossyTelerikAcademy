@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb

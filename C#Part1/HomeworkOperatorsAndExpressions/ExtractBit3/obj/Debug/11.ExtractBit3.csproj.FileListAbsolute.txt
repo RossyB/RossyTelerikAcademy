@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\obj\Debug\11.ExtractBit3.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.pdb

@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

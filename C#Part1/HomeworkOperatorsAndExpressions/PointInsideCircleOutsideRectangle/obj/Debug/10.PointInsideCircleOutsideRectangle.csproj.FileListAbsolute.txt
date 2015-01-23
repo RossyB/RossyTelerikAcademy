@@ -1,0 +1,3 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.pdb

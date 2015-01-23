@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb

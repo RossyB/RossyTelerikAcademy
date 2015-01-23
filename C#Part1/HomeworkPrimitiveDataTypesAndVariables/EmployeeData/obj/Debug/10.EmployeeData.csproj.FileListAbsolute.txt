@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+D:\New courses\C#Part1\HomeworkPrimitiveDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb

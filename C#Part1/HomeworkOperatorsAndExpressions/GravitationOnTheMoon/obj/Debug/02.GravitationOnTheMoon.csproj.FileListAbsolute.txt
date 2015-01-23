@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+D:\New courses\C#Part1\HomeworkOperatorsAndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb
