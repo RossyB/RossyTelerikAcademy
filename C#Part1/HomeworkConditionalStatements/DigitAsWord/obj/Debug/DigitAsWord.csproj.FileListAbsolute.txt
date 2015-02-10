@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

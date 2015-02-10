@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\bin\Debug\BeerTime.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

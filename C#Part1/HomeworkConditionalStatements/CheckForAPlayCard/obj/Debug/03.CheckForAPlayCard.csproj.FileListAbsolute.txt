@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

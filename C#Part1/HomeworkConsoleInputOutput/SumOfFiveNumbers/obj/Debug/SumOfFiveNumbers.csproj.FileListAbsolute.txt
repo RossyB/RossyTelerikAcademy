@@ -1,0 +1,1 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config

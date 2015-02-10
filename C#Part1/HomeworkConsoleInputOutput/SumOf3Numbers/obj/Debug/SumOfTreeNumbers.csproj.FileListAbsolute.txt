@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOfTreeNumbers.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

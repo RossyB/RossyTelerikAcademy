@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\bin\Debug\NumberOfCombinations.exe.config
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\bin\Debug\NumberOfCombinations.exe
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\bin\Debug\NumberOfCombinations.pdb
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\obj\Debug\NumberOfCombinations.exe
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\obj\Debug\NumberOfCombinations.pdb
+D:\New courses\C#Part1\HomeworkLoops\NumberOfCombinations\obj\Debug\07.NumberOfCombinations.csprojResolveAssemblyReference.cache

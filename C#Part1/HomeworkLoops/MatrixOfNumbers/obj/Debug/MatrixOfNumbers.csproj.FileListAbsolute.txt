@@ -1,0 +1,1 @@
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config

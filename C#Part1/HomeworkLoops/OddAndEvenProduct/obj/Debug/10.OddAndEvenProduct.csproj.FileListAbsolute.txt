@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+D:\New courses\C#Part1\HomeworkLoops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

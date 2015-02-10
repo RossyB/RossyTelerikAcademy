@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe.config
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.pdb
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.exe
+D:\New courses\C#Part1\HomeworkLoops\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.pdb

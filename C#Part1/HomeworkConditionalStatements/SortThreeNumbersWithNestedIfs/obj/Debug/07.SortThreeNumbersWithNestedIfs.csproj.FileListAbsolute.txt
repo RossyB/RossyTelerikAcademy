@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\bin\Debug\SortThreeNumbersWithNestedIfs.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\bin\Debug\SortThreeNumbersWithNestedIfs.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\bin\Debug\SortThreeNumbersWithNestedIfs.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\obj\Debug\SortThreeNumbersWithNestedIfs.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\SortThreeNumbersWithNestedIfs\obj\Debug\SortThreeNumbersWithNestedIfs.pdb

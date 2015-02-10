@@ -1,0 +1,3 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

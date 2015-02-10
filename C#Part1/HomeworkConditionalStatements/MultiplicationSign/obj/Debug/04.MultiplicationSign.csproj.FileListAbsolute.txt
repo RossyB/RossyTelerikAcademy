@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

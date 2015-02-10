@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\bin\Debug\CalculateFacttorialDivision.exe.config
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\bin\Debug\CalculateFacttorialDivision.exe
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\bin\Debug\CalculateFacttorialDivision.pdb
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\obj\Debug\06.CalculateFacttorialDivision.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\obj\Debug\CalculateFacttorialDivision.exe
+D:\New courses\C#Part1\HomeworkLoops\CalculateFacttorialDivision\obj\Debug\CalculateFacttorialDivision.pdb

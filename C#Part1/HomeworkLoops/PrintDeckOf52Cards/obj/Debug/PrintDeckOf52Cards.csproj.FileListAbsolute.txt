@@ -1,0 +1,1 @@
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config

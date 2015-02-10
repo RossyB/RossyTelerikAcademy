@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

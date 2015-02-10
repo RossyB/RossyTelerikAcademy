@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\bin\Debug\TheBiggestOfTreeNumbers.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\bin\Debug\TheBiggestOfTreeNumbers.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\bin\Debug\TheBiggestOfTreeNumbers.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\obj\Debug\TheBiggestOfTreeNumbers.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\obj\Debug\TheBiggestOfTreeNumbers.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\TheBiggestOfTreeNumbers\obj\Debug\TheBiggestOfTreeNumbers.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkLoops\NumbersNotDivisibleBy3and7\bin\Debug\NumbersNotDivisibleBy3and7.exe.config
+D:\New courses\C#Part1\HomeworkLoops\NumbersNotDivisibleBy3and7\bin\Debug\NumbersNotDivisibleBy3and7.exe
+D:\New courses\C#Part1\HomeworkLoops\NumbersNotDivisibleBy3and7\bin\Debug\NumbersNotDivisibleBy3and7.pdb
+D:\New courses\C#Part1\HomeworkLoops\NumbersNotDivisibleBy3and7\obj\Debug\NumbersNotDivisibleBy3and7.exe
+D:\New courses\C#Part1\HomeworkLoops\NumbersNotDivisibleBy3and7\obj\Debug\NumbersNotDivisibleBy3and7.pdb

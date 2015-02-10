@@ -1,0 +1,3 @@
+D:\New courses\C#Part1\HomeworkLoops\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe.config
+D:\New courses\C#Part1\HomeworkLoops\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.exe
+D:\New courses\C#Part1\HomeworkLoops\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.pdb

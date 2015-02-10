@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkLoops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe.config
+D:\New courses\C#Part1\HomeworkLoops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe
+D:\New courses\C#Part1\HomeworkLoops\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.pdb
+D:\New courses\C#Part1\HomeworkLoops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.exe
+D:\New courses\C#Part1\HomeworkLoops\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.pdb

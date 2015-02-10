@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\bin\Debug\TrailingZeroesInNFactorial.exe.config
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\bin\Debug\TrailingZeroesInNFactorial.exe
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\bin\Debug\TrailingZeroesInNFactorial.pdb
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\obj\Debug\18.TrailingZeroesInNFactorial.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\obj\Debug\TrailingZeroesInNFactorial.exe
+D:\New courses\C#Part1\HomeworkLoops\TrailingZeroesInNFactorial\obj\Debug\TrailingZeroesInNFactorial.pdb

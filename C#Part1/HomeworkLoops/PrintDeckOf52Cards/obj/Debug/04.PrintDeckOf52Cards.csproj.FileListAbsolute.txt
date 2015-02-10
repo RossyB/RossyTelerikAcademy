@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\obj\Debug\04.PrintDeckOf52Cards.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+D:\New courses\C#Part1\HomeworkLoops\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb

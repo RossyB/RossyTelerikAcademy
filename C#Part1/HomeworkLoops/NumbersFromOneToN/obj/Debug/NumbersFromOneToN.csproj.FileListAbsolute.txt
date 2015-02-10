@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\New courses\C#Part1\HomeworkLoops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

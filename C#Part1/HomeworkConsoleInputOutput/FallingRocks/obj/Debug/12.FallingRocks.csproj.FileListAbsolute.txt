@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+D:\New courses\C#Part1\HomeworkConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb

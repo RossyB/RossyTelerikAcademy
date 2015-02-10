@@ -1,0 +1,5 @@
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+D:\New courses\C#Part1\HomeworkLoops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

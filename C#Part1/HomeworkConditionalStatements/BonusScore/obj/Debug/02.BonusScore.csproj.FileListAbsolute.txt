@@ -1,0 +1,6 @@
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+D:\New courses\C#Part1\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb
