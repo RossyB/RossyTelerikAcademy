@@ -1,0 +1,6 @@
+D:\New courses\C#Exam1\Exam1\BitsToBits\bin\Debug\BitsToBits.exe.config
+D:\New courses\C#Exam1\Exam1\BitsToBits\bin\Debug\BitsToBits.exe
+D:\New courses\C#Exam1\Exam1\BitsToBits\bin\Debug\BitsToBits.pdb
+D:\New courses\C#Exam1\Exam1\BitsToBits\obj\Debug\5.BitsToBits.csprojResolveAssemblyReference.cache
+D:\New courses\C#Exam1\Exam1\BitsToBits\obj\Debug\BitsToBits.exe
+D:\New courses\C#Exam1\Exam1\BitsToBits\obj\Debug\BitsToBits.pdb

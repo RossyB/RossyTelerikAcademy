@@ -1,0 +1,5 @@
+D:\New courses\C#Exam1\Exam1\TextToNumber\bin\Debug\TextToNumber.exe.config
+D:\New courses\C#Exam1\Exam1\TextToNumber\bin\Debug\TextToNumber.exe
+D:\New courses\C#Exam1\Exam1\TextToNumber\bin\Debug\TextToNumber.pdb
+D:\New courses\C#Exam1\Exam1\TextToNumber\obj\Debug\TextToNumber.exe
+D:\New courses\C#Exam1\Exam1\TextToNumber\obj\Debug\TextToNumber.pdb
