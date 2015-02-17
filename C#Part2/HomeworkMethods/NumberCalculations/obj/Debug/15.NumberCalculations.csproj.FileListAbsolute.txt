@@ -1,0 +1,9 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\obj\Debug\15.NumberCalculations.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.pdb
+D:\New courses\C#Part2\HomeworkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+D:\New courses\C#Part2\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.exe
+D:\New courses\C#Part2\HomeworkMethods\NumberCalculations\obj\Debug\NumberCalculations.pdb

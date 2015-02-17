@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AddingPolynomials\obj\Debug\AddingPolynomials.pdb

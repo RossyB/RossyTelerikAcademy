@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\bin\Debug\SortByStringLength.exe.config
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\bin\Debug\SortByStringLength.exe
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\bin\Debug\SortByStringLength.pdb
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\obj\Debug\05.SortByStringLength.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\obj\Debug\SortByStringLength.exe
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\SortByStringLength\obj\Debug\SortByStringLength.pdb

@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\EnglishDigit\obj\Debug\EnglishDigit.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\EnglishDigit\obj\Debug\EnglishDigit.pdb

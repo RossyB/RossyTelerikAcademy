@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe.config
+D:\New courses\C#Part2\HomeworkArrays\MergeSort\bin\Debug\MergeSort.exe
+D:\New courses\C#Part2\HomeworkArrays\MergeSort\bin\Debug\MergeSort.pdb
+D:\New courses\C#Part2\HomeworkArrays\MergeSort\obj\Debug\MergeSort.exe
+D:\New courses\C#Part2\HomeworkArrays\MergeSort\obj\Debug\MergeSort.pdb

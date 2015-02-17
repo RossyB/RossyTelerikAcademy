@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkArrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+D:\New courses\C#Part2\HomeworkArrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+D:\New courses\C#Part2\HomeworkArrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+D:\New courses\C#Part2\HomeworkArrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+D:\New courses\C#Part2\HomeworkArrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

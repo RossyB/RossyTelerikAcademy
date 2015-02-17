@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+D:\New courses\C#Part2\HomeworkArrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

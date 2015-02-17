@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AppearanceCount\bin\Debug\AppearanceCount.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AppearanceCount\bin\Debug\AppearanceCount.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AppearanceCount\bin\Debug\AppearanceCount.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AppearanceCount\obj\Debug\AppearanceCount.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\AppearanceCount\obj\Debug\AppearanceCount.pdb

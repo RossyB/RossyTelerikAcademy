@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\bin\Debug\SortingArray.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\bin\Debug\SortingArray.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\bin\Debug\SortingArray.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\obj\Debug\09.SortingArray.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\obj\Debug\SortingArray.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\SortingArray\obj\Debug\SortingArray.pdb

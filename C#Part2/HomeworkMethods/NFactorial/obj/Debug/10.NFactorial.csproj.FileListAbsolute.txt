@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\bin\Debug\NFactorial.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\bin\Debug\NFactorial.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\bin\Debug\NFactorial.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\obj\Debug\NFactorial.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\NFactorial\obj\Debug\NFactorial.pdb

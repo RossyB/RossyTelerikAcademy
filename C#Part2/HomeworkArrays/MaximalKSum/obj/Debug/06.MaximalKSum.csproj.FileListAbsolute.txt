@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\bin\Debug\MaximalKSum.exe
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\bin\Debug\MaximalKSum.pdb
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\obj\Debug\06.MaximalKSum.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+D:\New courses\C#Part2\HomeworkArrays\MaximalKSum\obj\Debug\MaximalKSum.pdb

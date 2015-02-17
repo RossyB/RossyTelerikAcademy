@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

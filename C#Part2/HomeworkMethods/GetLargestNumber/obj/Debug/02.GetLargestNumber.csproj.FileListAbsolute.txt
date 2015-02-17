@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\obj\Debug\02.GetLargestNumber.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

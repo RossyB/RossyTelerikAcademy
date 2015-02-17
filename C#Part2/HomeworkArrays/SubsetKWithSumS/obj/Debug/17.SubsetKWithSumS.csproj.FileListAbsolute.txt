@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\bin\Debug\SubsetKWithSumS.exe.config
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\bin\Debug\SubsetKWithSumS.exe
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\bin\Debug\SubsetKWithSumS.pdb
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\obj\Debug\17.SubsetKWithSumS.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\obj\Debug\SubsetKWithSumS.exe
+D:\New courses\C#Part2\HomeworkArrays\SubsetKWithSumS\obj\Debug\SubsetKWithSumS.pdb

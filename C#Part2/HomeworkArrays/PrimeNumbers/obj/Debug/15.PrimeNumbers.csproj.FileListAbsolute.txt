@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\New courses\C#Part2\HomeworkArrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\ReverseNumber\obj\Debug\ReverseNumber.pdb

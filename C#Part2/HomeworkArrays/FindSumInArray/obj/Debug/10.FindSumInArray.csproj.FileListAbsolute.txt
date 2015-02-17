@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\bin\Debug\FindSumInArray.exe.config
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\bin\Debug\FindSumInArray.exe
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\bin\Debug\FindSumInArray.pdb
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\obj\Debug\10.FindSumInArray.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\obj\Debug\FindSumInArray.exe
+D:\New courses\C#Part2\HomeworkArrays\FindSumInArray\obj\Debug\FindSumInArray.pdb

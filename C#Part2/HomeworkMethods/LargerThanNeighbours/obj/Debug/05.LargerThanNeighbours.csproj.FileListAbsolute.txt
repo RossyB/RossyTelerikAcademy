@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+D:\New courses\C#Part2\podgotovka za izpit\HomeworkMethods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

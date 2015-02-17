@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkMultidimensionalArrays\MatrixClass\bin\Debug\MatrixClass.exe.config
