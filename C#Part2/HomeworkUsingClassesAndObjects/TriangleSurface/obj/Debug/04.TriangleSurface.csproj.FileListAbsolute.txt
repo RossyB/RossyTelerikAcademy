@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.pdb
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.pdb

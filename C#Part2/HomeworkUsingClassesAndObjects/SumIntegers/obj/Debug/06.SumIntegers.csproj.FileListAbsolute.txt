@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.exe.config
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\bin\Debug\SumIntegers.pdb
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\obj\Debug\06.SumIntegers.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\obj\Debug\SumIntegers.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\SumIntegers\obj\Debug\SumIntegers.pdb

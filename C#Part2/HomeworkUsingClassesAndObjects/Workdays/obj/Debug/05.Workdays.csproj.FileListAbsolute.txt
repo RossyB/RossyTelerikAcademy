@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\bin\Debug\Workdays.exe.config
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\bin\Debug\Workdays.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\bin\Debug\Workdays.pdb
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\obj\Debug\Workdays.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\Workdays\obj\Debug\Workdays.pdb

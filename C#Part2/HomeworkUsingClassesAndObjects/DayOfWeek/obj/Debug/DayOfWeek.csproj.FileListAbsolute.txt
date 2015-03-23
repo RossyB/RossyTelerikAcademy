@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
