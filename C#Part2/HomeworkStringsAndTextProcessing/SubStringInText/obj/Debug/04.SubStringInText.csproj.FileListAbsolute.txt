@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\bin\Debug\SubStringInText.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\bin\Debug\SubStringInText.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\obj\Debug\04.SubStringInText.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\obj\Debug\SubStringInText.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SubStringInText\obj\Debug\SubStringInText.pdb

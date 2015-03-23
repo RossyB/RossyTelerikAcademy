@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config

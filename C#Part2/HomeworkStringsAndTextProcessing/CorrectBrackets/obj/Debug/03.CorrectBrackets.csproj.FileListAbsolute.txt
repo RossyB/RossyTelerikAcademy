@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

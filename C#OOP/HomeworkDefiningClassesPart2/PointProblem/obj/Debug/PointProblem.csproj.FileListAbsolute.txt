@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\bin\Debug\PointProblem.exe.config
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\obj\Debug\PointProblem.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\bin\Debug\PointProblem.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\bin\Debug\PointProblem.pdb
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\obj\Debug\PointProblem.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\PointProblem\obj\Debug\PointProblem.pdb

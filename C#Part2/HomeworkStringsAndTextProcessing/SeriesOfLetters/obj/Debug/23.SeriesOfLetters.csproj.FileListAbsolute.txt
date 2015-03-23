@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

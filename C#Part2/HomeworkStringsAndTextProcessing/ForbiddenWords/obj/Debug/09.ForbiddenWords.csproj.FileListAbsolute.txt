@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ForbiddenWords\bin\Debug\ForbiddenWords.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ForbiddenWords\obj\Debug\ForbiddenWords.pdb

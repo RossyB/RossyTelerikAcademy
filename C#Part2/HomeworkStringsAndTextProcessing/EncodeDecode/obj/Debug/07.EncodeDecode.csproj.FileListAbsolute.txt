@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

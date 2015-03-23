@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordsCount\obj\Debug\WordsCount.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordsCount\obj\Debug\WordsCount.pdb

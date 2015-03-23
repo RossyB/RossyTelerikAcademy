@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\bin\Debug\ExtractTextFromHTML.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractTextFromHTML\obj\Debug\ExtractTextFromHTML.pdb

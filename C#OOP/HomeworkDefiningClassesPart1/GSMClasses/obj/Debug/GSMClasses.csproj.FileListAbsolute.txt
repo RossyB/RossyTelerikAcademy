@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\bin\Debug\GSMClasses.exe.config
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\bin\Debug\GSMClasses.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\bin\Debug\GSMClasses.pdb
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\obj\Debug\GSMClasses.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\obj\Debug\GSMClasses.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart1\GSMClasses\obj\Debug\GSMClasses.pdb

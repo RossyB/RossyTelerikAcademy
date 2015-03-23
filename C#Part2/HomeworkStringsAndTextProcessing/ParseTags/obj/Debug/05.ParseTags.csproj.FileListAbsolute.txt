@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\obj\Debug\05.ParseTags.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb

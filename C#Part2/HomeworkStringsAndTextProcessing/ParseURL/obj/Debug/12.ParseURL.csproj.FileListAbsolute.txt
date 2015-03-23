@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.pdb

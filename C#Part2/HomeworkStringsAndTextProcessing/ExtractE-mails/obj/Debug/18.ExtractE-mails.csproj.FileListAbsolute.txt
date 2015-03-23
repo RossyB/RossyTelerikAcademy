@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractE-mails\bin\Debug\ExtractE-mails.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractE-mails\bin\Debug\ExtractE-mails.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractE-mails\bin\Debug\ExtractE-mails.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractE-mails\obj\Debug\ExtractE-mails.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractE-mails\obj\Debug\ExtractE-mails.pdb

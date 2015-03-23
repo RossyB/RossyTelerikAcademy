@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateInBulgarian\obj\Debug\DateInBulgarian.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateInBulgarian\obj\Debug\DateInBulgarian.pdb

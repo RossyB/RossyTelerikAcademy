@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\bin\Debug\GenericClass.exe.config
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\bin\Debug\GenericClass.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\bin\Debug\GenericClass.pdb
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\obj\Debug\GenericClass.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\obj\Debug\GenericClass.pdb
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache

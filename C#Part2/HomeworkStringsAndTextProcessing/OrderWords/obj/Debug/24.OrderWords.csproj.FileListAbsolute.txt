@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\OrderWords\obj\Debug\OrderWords.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\OrderWords\obj\Debug\OrderWords.pdb

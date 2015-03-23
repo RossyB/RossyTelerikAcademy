@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.pdb

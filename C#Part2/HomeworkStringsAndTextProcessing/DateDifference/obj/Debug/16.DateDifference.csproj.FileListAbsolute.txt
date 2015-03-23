@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateDifference\obj\Debug\DateDifference.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\DateDifference\obj\Debug\DateDifference.pdb

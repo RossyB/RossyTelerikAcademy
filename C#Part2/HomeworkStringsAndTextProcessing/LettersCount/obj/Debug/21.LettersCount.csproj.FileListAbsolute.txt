@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\obj\Debug\21.LettersCount.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\obj\Debug\LettersCount.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\LettersCount\obj\Debug\LettersCount.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

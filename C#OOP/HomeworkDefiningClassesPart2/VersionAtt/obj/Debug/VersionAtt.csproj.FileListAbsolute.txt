@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\bin\Debug\VersionAtt.exe.config
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\bin\Debug\VersionAtt.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\bin\Debug\VersionAtt.pdb
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\obj\Debug\VersionAtt.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\obj\Debug\VersionAtt.exe
+D:\New courses\C#OOP\HomeworkDefiningClassesPart2\VersionAtt\obj\Debug\VersionAtt.pdb

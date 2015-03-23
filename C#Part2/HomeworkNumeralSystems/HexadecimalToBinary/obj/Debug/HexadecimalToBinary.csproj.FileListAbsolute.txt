@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkNumeralSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config

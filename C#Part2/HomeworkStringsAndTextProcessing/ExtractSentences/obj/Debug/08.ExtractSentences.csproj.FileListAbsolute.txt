@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractSentences\bin\Debug\ExtractSentences.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ExtractSentences\obj\Debug\ExtractSentences.pdb

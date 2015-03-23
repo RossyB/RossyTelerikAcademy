@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe.config
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\bin\Debug\BinaryShort.pdb
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\obj\Debug\BinaryShort.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\BinaryShort\obj\Debug\BinaryShort.pdb

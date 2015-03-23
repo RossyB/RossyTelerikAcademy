@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\obj\Debug\03.DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+D:\New courses\C#Part2\HomeworkNumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.pdb

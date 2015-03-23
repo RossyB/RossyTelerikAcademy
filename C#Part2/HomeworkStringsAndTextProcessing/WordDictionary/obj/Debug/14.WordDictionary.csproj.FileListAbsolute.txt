@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.pdb

@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\New courses\C#Part2\HomeworkUsingClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.pdb

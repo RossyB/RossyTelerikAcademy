@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb

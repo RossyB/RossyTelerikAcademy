@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\HomeworkNumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config

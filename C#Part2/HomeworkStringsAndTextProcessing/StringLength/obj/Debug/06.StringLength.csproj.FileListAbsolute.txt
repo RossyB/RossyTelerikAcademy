@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\obj\Debug\06.StringLength.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

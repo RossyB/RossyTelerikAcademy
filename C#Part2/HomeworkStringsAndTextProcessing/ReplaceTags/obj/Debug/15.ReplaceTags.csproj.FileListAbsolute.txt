@@ -1,0 +1,5 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.pdb
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+D:\New courses\C#Part2\HomeworkStringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb
