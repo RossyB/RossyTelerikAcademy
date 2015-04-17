@@ -1,0 +1,5 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\LongestString\obj\Debug\LongestString.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\LongestString\obj\Debug\LongestString.pdb

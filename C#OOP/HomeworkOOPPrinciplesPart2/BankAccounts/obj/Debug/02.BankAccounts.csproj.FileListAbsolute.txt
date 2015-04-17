@@ -1,0 +1,5 @@
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart2\BankAccounts\bin\Debug\BankAccounts.exe.config
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart2\BankAccounts\bin\Debug\BankAccounts.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart2\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart2\BankAccounts\obj\Debug\BankAccounts.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart2\BankAccounts\obj\Debug\BankAccounts.pdb

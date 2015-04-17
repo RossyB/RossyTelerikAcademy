@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\obj\Debug\03.AnimalHierarchy.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

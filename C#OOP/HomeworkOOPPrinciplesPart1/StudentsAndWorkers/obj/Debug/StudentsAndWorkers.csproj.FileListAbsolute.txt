@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb
+D:\New courses\C#OOP\HomeworkOOPPrinciplesPart1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\bin\Debug\StudentGroups.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\bin\Debug\StudentGroups.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\bin\Debug\StudentGroups.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\obj\Debug\09.StudentGroups.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\obj\Debug\StudentGroups.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\StudentGroups\obj\Debug\StudentGroups.pdb

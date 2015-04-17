@@ -1,0 +1,5 @@
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\PersonClass\bin\Debug\PersonClass.pdb
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\PersonClass\obj\Debug\PersonClass.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\PersonClass\obj\Debug\PersonClass.pdb

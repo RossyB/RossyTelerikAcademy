@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\bin\Debug\64BitArray.exe.config
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\bin\Debug\64BitArray.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\bin\Debug\64BitArray.pdb
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\obj\Debug\64BitArray.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\BitArray\obj\Debug\64BitArray.pdb

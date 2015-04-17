@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\bin\Debug\SubstringForStringBuilder.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\bin\Debug\SubstringForStringBuilder.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\bin\Debug\SubstringForStringBuilder.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\obj\Debug\SubstringForStringBuilder.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\obj\Debug\SubstringForStringBuilder.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\SubstringForStringBuilder\obj\Debug\SubstringForStringBuilder.pdb

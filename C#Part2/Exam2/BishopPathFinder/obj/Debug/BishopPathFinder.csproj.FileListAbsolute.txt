@@ -1,0 +1,1 @@
+D:\New courses\C#Part2\Solution1\BishopPathFinder\bin\Debug\BishopPathFinder.exe.config

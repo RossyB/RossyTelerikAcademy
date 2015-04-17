@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\bin\Debug\AgeRange.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\bin\Debug\AgeRange.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\bin\Debug\AgeRange.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\obj\Debug\04.AgeRange.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\obj\Debug\AgeRange.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\AgeRange\obj\Debug\AgeRange.pdb

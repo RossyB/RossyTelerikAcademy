@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe.config
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\bin\Debug\StudentClass.pdb
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\obj\Debug\StudentClass.exe
+D:\New courses\C#OOP\HomeworkCommonTypeSystem\StudentClass\obj\Debug\StudentClass.pdb

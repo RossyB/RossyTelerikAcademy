@@ -1,0 +1,3 @@
+D:\New courses\C#Part2\Exam2\MathProblem\bin\Debug\MathProblem.exe.config
+D:\New courses\C#Part2\Exam2\MathProblem\obj\Debug\MathProblem.exe
+D:\New courses\C#Part2\Exam2\MathProblem\obj\Debug\MathProblem.pdb

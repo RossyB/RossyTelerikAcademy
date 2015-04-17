@@ -1,0 +1,5 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\Grouped\bin\Debug\Grouped.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\Grouped\bin\Debug\Grouped.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\Grouped\bin\Debug\Grouped.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\Grouped\obj\Debug\Grouped.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\Grouped\obj\Debug\Grouped.pdb

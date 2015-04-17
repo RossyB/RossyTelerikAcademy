@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MathProblem", "MathProblem\01.MathProblem.csproj", "{5B561E0D-B8B1-43B8-9383-83AB3EA25357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfDifferences", "SumOfDifferences\02.SumOfDifferences.csproj", "{4FEFF61C-548A-4EAD-98D6-2F48F3BDF508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BishopPathFinder", "BishopPathFinder\03.BishopPathFinder.csproj", "{A19B2C8F-D8B0-4188-A841-9F3C2A343E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B561E0D-B8B1-43B8-9383-83AB3EA25357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B561E0D-B8B1-43B8-9383-83AB3EA25357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B561E0D-B8B1-43B8-9383-83AB3EA25357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B561E0D-B8B1-43B8-9383-83AB3EA25357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEFF61C-548A-4EAD-98D6-2F48F3BDF508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEFF61C-548A-4EAD-98D6-2F48F3BDF508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEFF61C-548A-4EAD-98D6-2F48F3BDF508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEFF61C-548A-4EAD-98D6-2F48F3BDF508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19B2C8F-D8B0-4188-A841-9F3C2A343E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19B2C8F-D8B0-4188-A841-9F3C2A343E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19B2C8F-D8B0-4188-A841-9F3C2A343E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19B2C8F-D8B0-4188-A841-9F3C2A343E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb

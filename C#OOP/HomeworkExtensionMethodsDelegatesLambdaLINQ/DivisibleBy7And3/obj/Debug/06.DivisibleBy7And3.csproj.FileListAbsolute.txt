@@ -1,0 +1,3 @@
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\DivisibleBy7And3\bin\Debug\DivisibleBy7And3.exe.config
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\DivisibleBy7And3\obj\Debug\DivisibleBy7And3.exe
+D:\New courses\C#OOP\HomeworkExtensionMethodsDelegatesLambdaLINQ\DivisibleBy7And3\obj\Debug\DivisibleBy7And3.pdb

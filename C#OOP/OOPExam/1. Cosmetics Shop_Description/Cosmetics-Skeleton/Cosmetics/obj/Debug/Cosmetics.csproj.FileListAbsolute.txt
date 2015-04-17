@@ -1,0 +1,6 @@
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+D:\New courses\C#OOP\C#OOPExam\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb
