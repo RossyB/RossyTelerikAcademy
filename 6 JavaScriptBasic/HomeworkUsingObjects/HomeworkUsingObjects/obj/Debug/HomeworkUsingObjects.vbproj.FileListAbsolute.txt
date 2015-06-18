@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\bin\HomeworkUsingObjects.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\bin\HomeworkUsingObjects.dll
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\bin\HomeworkUsingObjects.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\bin\HomeworkUsingObjects.xml
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\obj\Debug\HomeworkUsingObjects.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\obj\Debug\HomeworkUsingObjects.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\obj\Debug\HomeworkUsingObjects.dll
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\obj\Debug\HomeworkUsingObjects.xml
+D:\New courses\6 JavaScriptBasic\HomeworkUsingObjects\HomeworkUsingObjects\obj\Debug\HomeworkUsingObjects.pdb

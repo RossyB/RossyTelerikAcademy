@@ -1,0 +1,38 @@
+﻿body {
+    background-color: #c1c1c1;
+}
+header {
+    color: #fffde0;
+    text-align: center;
+    font-size: 1.2em
+}
+article header {
+    text-align: left;
+    font-size: 1.2em
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+ul li {
+    list-style: none;
+    font-size: 1.2em
+}
+a:hover {
+    text-decoration:underline;
+    text-shadow: 1px 1px 15px white;
+}
+.current {
+    background: #d9d9d9;
+    color: #fffde0;
+}
+
+body>footer {
+    text-align: center;
+    font-size: 1.2em;
+}

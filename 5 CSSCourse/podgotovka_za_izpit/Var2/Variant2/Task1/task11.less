@@ -1,0 +1,113 @@
+﻿body, div, ul, li, a, h1, h2,p {
+    margin: 0;
+    padding: 0; 
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+body{
+
+    font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 18px;
+
+.accordion-content{
+                display: none;
+            }
+
+    #wrapper{
+        width: 960px;
+
+        .accordion{
+            margin-left: 50px;
+            margin-top: 50px;
+            list-style-type: none;
+            width: 400px;
+
+            li {
+
+                .accordion-btn{
+                    display: block;
+                    border: 1px solid black;
+                    .linear-gradient (#eeeeee, 25%, #aaaaaa, 75% );
+                    text-align: center;
+                    color: #444444;
+                    text-decoration: none;
+                    font-size: 1.3em;
+                    font-weight: bold; 
+
+                    &:hover {
+                        background: #aaaaaa;
+                    }
+                   
+ 
+                }
+
+                &.current{
+                    border-bottom: 0px;
+
+                    .accordion-content{
+                        background:#aaaaaa;
+                        display: block;
+                        color:#444444;
+                        border-top: none;
+                        border-left: 1px solid black;
+                        border-right: 1px solid black;
+                        padding: 5px 15px; 
+
+                        h1{
+                            font-size: 1.6em;
+                            text-align: center;
+                            color: #5e5e5e;
+                            padding: 5px;
+                        }
+
+                        p { 
+                            text-align:justify;
+                        }
+
+                        table { 
+                            border-collapse: collapse;
+                            width: 360px;
+                            
+                            margin: auto;
+                            margin-top: 15px;
+                            margin-bottom: 15px;
+
+
+                            tr {
+                                .linear-gradient (#898989, 0%, #cbcbcb, 100% );
+                                &:nth-of-type(2n+1){
+                                    .linear-gradient (#cbcbcb, 0%, #898989, 100% );
+                                }
+                            }
+
+                            th {
+                                .linear-gradient (#ececec, 0%, #898989, 100% );
+                                border: 1px solid black;
+                                padding: 5px;
+
+                            }
+                            td {
+                                border: 1px solid black;
+                                padding: 5px;
+                                color: #ffffff;
+
+                            }
+                            
+                        }
+                    }
+
+                }
+            }      
+        }
+    }
+}

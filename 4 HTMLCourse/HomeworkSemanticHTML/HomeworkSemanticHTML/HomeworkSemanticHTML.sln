@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task1(2)", "http://localhost:56381", "{40D803EB-E8D7-4999-B68A-0E9CAC1D2CD7}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56381"
+		Debug.AspNetCompiler.PhysicalPath = "Task1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56381\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56381"
+		Release.AspNetCompiler.PhysicalPath = "Task1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56381\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Task1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task2(2)", "http://localhost:60327", "{2465FFF9-AFCA-4188-9810-7713F8A2E522}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60327"
+		Debug.AspNetCompiler.PhysicalPath = "Task2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60327\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60327"
+		Release.AspNetCompiler.PhysicalPath = "Task2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60327\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Task2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task3(2)", "http://localhost:61883", "{DD354F84-F9E5-465B-8A73-959B41489B6F}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61883"
+		Debug.AspNetCompiler.PhysicalPath = "Task3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61883\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61883"
+		Release.AspNetCompiler.PhysicalPath = "Task3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61883\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Task3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D803EB-E8D7-4999-B68A-0E9CAC1D2CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D803EB-E8D7-4999-B68A-0E9CAC1D2CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2465FFF9-AFCA-4188-9810-7713F8A2E522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2465FFF9-AFCA-4188-9810-7713F8A2E522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD354F84-F9E5-465B-8A73-959B41489B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD354F84-F9E5-465B-8A73-959B41489B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

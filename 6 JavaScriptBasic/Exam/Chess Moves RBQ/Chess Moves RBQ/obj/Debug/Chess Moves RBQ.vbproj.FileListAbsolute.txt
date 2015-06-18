@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\bin\Chess Moves RBQ.dll.config
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\bin\Chess Moves RBQ.dll
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\bin\Chess Moves RBQ.pdb
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\bin\Chess Moves RBQ.xml
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\obj\Debug\Chess_Moves_RBQ.Resources.resources
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\obj\Debug\Chess Moves RBQ.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\obj\Debug\Chess Moves RBQ.dll
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\obj\Debug\Chess Moves RBQ.xml
+D:\New courses\6 JavaScriptBasic\Exam\Chess Moves RBQ\Chess Moves RBQ\obj\Debug\Chess Moves RBQ.pdb

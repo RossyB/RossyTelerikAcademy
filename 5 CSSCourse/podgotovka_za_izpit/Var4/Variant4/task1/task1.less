@@ -1,0 +1,73 @@
+﻿body, div, h1, img, p {
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient(@from-color,@from-pos,@to-color,@to-pos) {
+    background: @to-color;
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color));
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos);
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos);
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos);
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 );
+}
+
+body{
+
+    font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+    font-size: 16px;
+
+
+    #wrapper{
+        width: 960px;
+
+        div{
+            .linear-gradient(#de28ff,0%,#f9dbff,75%);
+            width:860px;
+            margin-left: 25px;
+            margin-top: 25px;
+            border: 1px solid black;
+            border-radius: 15px;
+            padding: 15px 35px;
+
+
+            h1{
+                font-size: 1.8em;
+
+            }
+
+            img{
+
+                &.left-arrow{
+                    float: left;
+                    position: relative;
+                    left: -35px;
+                    top: 35px;
+                }
+                &.right-arrow{
+                    float: right;
+                    position: relative;
+                    left: 35px;
+                    top: 35px;
+                }
+            }
+            p.postedby {
+                width: 370px;
+                margin: 5px 15px;
+                padding: 5px 15px;
+                border-bottom: 1px solid black;
+                border-top: 1px solid black;
+
+            }
+
+            p {
+                margin-top: 20px;
+                margin-bottom: 15px;
+                text-align: justify;
+
+            }
+        }
+    }
+}

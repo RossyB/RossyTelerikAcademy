@@ -1,0 +1,113 @@
+﻿body, div, details, ul, li, a, table, thead, tbody th, tr, td {
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+body {
+    font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+    font-size: 16px;
+
+    #wrapper {
+        width: 960px;
+
+        .tab-strip {
+            display: inline-block;
+            position: relative;
+            list-style-type: none;
+            width: 340px;
+            height: 230px;
+            border: 1px solid black;
+            margin-top: 15px;
+            margin-left: 15px;
+            border-radius: 5px;
+
+            & > li {
+                display: inline-block;
+                border-right: 1px solid black;
+                border-bottom: 1px solid black;
+                padding: 5px 15px;
+                border-radius: 5px;
+                .linear-gradient (#ededed, 0%, #ababab, 100% );
+
+                &.current {
+                    border-bottom: none;
+                    background: none;
+                    border-radius: 0;
+
+                    .tab-btn {
+                        font-weight: bold;
+                    }
+
+                    .tab-content {
+                        display: block;
+                        margin-top: 15px;
+                        margin-left: 0;
+                    }
+                }
+                &:hover {
+                    background-color: #eeeeee;
+                }
+
+                &:last-of-type {
+                    border-right: none;
+                }
+
+                .tab-btn {
+                    color: #000;
+                    font-size: 1.4em;
+                    text-decoration: none;
+                }
+
+                .tab-content {
+                    display: none;
+                    position: absolute;
+                    top: 20px;
+                    left: 15px;
+                    width: 330px;
+                    height: 80%;
+                    border-top: none;
+                    padding: 5px;
+                    padding-top: 15px;
+
+                    ul {
+                        list-style-type: disc;
+
+                        li {
+                            ul {
+                                margin-left: 25px;
+                                list-style-type: lower-alpha;
+                            }
+                        }
+                    }
+
+                    table {
+                        border-collapse: collapse;
+                        th {
+                            .linear-gradient (#ababab, 0%, #eeeeee, 75% );
+                            padding: 5px 15px;
+                            border: 1px solid black;
+                        }
+
+                        td {
+                            padding: 5px 5px;
+                            border: 1px solid black;
+                            background: #eeeeee;
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

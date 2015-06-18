@@ -1,0 +1,52 @@
+﻿body {
+    font-family: Helvetica;
+}
+table {
+    width: 650px;
+    border-collapse:collapse;
+}
+table tr:nth-child(even)
+{
+    background-color:#ececd8;
+}
+table tr:last-child {
+    border-bottom: 2px inset;
+}
+
+th {
+    font-weight: normal;
+    text-align:left;
+    background-color: #55b806;
+    color: white;
+    border: 2px inset;
+    padding: 8px;
+}
+
+td {
+    border-left: 2px inset;
+    border-right: 2px inset;
+    padding: 8px;
+    -ms-align-content: center;
+    -webkit-align-content: center;
+    align-content: center;
+}
+th.isPromoted {
+    width: 90px;
+}
+
+td.germany:before {
+    content: url("Germany.png");
+    margin-right: 8px;
+    -ms-grid-row-align: center;
+    grid-row-align: center;
+}
+
+td.mexico:before {
+        content: url("Mexico.png");
+        margin-right: 8px;
+    }
+
+td.UK:before {
+        content: url("United_Kingdom.png");
+        margin-right: 8px;
+    }

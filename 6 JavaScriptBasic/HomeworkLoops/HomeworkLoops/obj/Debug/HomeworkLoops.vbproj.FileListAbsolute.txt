@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\bin\HomeworkLoops.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\bin\HomeworkLoops.dll
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\bin\HomeworkLoops.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\bin\HomeworkLoops.xml
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.dll
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.xml
+D:\New courses\6 JavaScriptBasic\HomeworkLoops\HomeworkLoops\obj\Debug\HomeworkLoops.pdb

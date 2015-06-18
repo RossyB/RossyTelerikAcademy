@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\bin\Horsy.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\bin\Horsy.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\bin\Horsy.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\bin\Horsy.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\obj\Debug\Horsy.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\obj\Debug\Horsy.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\obj\Debug\Horsy.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\obj\Debug\Horsy.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Horsy\Horsy\obj\Debug\Horsy.pdb

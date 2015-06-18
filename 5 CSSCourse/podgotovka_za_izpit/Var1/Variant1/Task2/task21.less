@@ -1,0 +1,123 @@
+﻿body, div, a, ul, li, table, thead, th, td, tr, tbody {
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+table{
+    border-collapse:collapse;
+}
+
+body {
+    color: black;
+    font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+    font-size: 16px;
+
+    div#wrapper {
+        width: 960px;
+
+        .tab-strip{
+            margin-left: 15px;
+            margin-top: 15px;
+            border: 1px solid black;
+            display: inline-block;
+            list-style-type: none;
+            border-radius: 5px;
+            position: relative;
+            width: 340px;
+            height: 230px;
+
+            & > li{
+                padding: 5px 15px;
+                display: inline-block;
+                border-right: 1px solid black; 
+                border-bottom: 1px solid black; 
+                border-radius: 5px; 
+                .linear-gradient (#eee, 0%, #aaa, 100% );
+
+                &.current {
+                    background: none;
+                    border-bottom: none;
+                    border-radius: 0;
+                    .tab-btn{
+                    font-weight: bold;
+                    }
+
+                    .tab-content{
+                    display: block;
+                    }
+
+                }
+
+                &:last-of-type{
+                    border-right: none;
+                }
+
+                &:hover{
+                    background: #eee;
+                }
+
+                .tab-btn{
+                    color: #000000;
+                    text-decoration: none;
+                    font-size: 1.4em;
+                    }
+
+                .tab-content{
+                    display: none;
+                    position: absolute;
+                    top: 35px;
+                    left: 15px;
+                    width: 330px;
+                    height: 80%;
+                    border-top: none;
+                    padding: 5px;
+                    padding-top: 15px;
+
+                    ul{
+                        list-style-type: disc;
+                        li{
+
+                        
+                        ul{
+                            margin-left: 25px;
+                            list-style-type:lower-alpha;
+                            li {
+
+                            }
+                        }
+                        }
+                    }
+                    table{
+                         border: 1px solid black;
+                         thead{
+                             .linear-gradient (#aaa, 0%, #eee, 75% );
+                             th{
+                                 border: 1px solid black;
+                                 padding: 5px 15px;
+                             }
+                         }
+                         tbody{
+                             background-color: #eeeeee;
+                             td {
+                                 border: 1px solid black;
+                                 padding: 5px 5px;
+                                 text-align: left;
+                             }
+                         }
+                    }
+                }
+            }
+        }
+    }
+}

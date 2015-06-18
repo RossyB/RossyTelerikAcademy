@@ -1,0 +1,92 @@
+﻿html, body, a, li, div, ul, input, form, fieldset, button { 
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ){
+background: @from-color; /* Old browsers */
+background: -moz-linear-gradient(top,  @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+background: linear-gradient(to bottom,  @from-color @from-pos,@to-color @to-pos); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+
+}
+
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+
+    div#wrapper {
+        margin-left: 50px;
+        width: 1024px;
+
+        .btn-login-form {
+            text-decoration: none;
+            color: #000;
+            font-size: 1.2em;
+            &:hover{
+                color: #666666;
+            }
+
+            &.current {
+                font-weight: bold;
+            }
+        }
+
+        form {
+            width: 450px;
+            .linear-gradient (#ffffff, 10%, #595959, 100%);
+
+            fieldset {
+                
+                border: 5px solid black;
+                border-radius: 5px;
+                padding-right: 75px;
+                text-align: right;
+                padding-top: 13px;
+
+                legend {
+                    font-size: 1.7em;
+                    padding: 0 10px;
+                    font-weight: bold;
+                    font-style: italic;
+                    text-align: right;
+                }
+
+                label{
+                    font-weight: bold;
+                }
+                input{
+                    .linear-gradient (#020202, 0%, #cacaca, 100%);
+                    border: none;
+                    width: 150px;
+                    padding: 10px 15px;
+                    border-radius: 15px;
+                    margin-bottom: 7px;
+                    color: #ffffff;
+                }
+
+                button{
+                    .linear-gradient (#000000, 0%, #fcfcfc, 100%);
+                    padding: 5px 10px;
+                    border-radius: 15px;
+                    border: 2px solid black;
+                    margin-top: 5px;
+                    margin-bottom: 10px;
+                    font-size: 1.2em;
+                    &:hover{
+                        .linear-gradient (#000000, 0%, #cacaca, 100%);
+                    }
+                }
+                
+            }
+        }
+
+        .invisible {
+            display: none;
+        }
+    }
+}

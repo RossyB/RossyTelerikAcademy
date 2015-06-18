@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\bin\Sequences.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\bin\Sequences.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\bin\Sequences.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\bin\Sequences.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\obj\Debug\Sequences.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\obj\Debug\Sequences.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\obj\Debug\Sequences.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\obj\Debug\Sequences.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Sequences\Sequences\obj\Debug\Sequences.pdb

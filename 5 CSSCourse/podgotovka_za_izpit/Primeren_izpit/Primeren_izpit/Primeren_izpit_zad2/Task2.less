@@ -1,0 +1,99 @@
+﻿body, div, a, fieldset, legend, label, input, form, button {
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+body{
+    font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    font-size: 16px;
+
+    .invisible{
+        display: none;
+    }
+
+    #wrapper{
+        width: 1024px;
+        padding-left: 50px;
+
+        a.btn-login-form{
+
+            text-decoration: none;
+            color: black;
+            font-size: 1.2em;
+
+            &:hover{
+                color: #666666;
+            }
+            
+        }
+        .current{
+            font-weight: bold;
+        }
+        form {
+            width: 450px;
+            .linear-gradient (#fff, 10%, #595959, 100% );
+            
+
+            fieldset{
+                border: 5px solid black;
+                padding: 10px;
+                border-radius: 5px;
+                text-align: right;
+                padding-right: 75px;
+                
+                padding-top: 10px;
+
+                legend{
+                    font-size: 1.7em;
+                    font-weight: bold;
+                    font-style: italic;
+                    padding: 0px 10px;
+ 
+                }
+
+                input{
+                        padding: 10px 15px;
+                        border-radius: 15px;
+                        border: none;
+                        .linear-gradient (#020202, 5%, #cacaca, 100% );
+                        color: white;
+                        margin-bottom: 7px;
+                       
+                        &:first-of-type {
+                             margin-top: 3px;
+                        }                       
+                    }
+                label{
+
+                    font-weight: bold;
+                    margin-right: 1px;
+                }
+
+                button{
+                    margin-top: 3px;
+                    padding: 5px 10px;
+                    font-size: 1.2em;
+                    border-radius: 15px;
+                    border: 2px solid black;
+                    .linear-gradient (#030303, 5%, #fcfcfc, 100% );
+
+                    &:hover{
+                        .linear-gradient (#030303, 5%, #cacaca, 100% );
+                    }
+                }
+            }
+        }
+
+    }
+}

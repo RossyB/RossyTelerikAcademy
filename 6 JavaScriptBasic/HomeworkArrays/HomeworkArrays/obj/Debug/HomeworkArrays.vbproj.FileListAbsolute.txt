@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\bin\HomeworkArrays.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\bin\HomeworkArrays.dll
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\bin\HomeworkArrays.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\bin\HomeworkArrays.xml
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.dll
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.xml
+D:\New courses\6 JavaScriptBasic\HomeworkArrays\HomeworkArrays\obj\Debug\HomeworkArrays.pdb

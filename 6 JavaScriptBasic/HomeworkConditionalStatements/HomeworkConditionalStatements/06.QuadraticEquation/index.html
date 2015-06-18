@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>6. Quadratic equation</title>
+</head>
+<body>
+    <script src="script.js"></script>
+    <h1>6. Quadratic equation</h1>
+    <p>
+        Write a script that reads the coefficients a, b and c of a quadratic equation ax2 + bx + c = 0 and solves it (prints its real roots).
+        Calculates and prints its real roots.
+
+        Note: Quadratic equations may have 0, 1 or 2 real roots.
+    </p>
+    <form>
+        <div>
+            <label for="input_a">Enter number a: </label>
+            <input type="text" on id="input_a" />
+        </div>
+        <div>
+            <label for="input_b">Enter number b: </label>
+            <input type="text" on id="input_b" />
+        </div>
+        <div>
+            <label for="input_c">Enter number c: </label>
+            <input type="text" on id="input_c" />
+        </div>
+
+        <input type="button" onclick="quadraticEquation()" value="Clic" />
+    </form>
+    <h2 id="output"></h2>
+
+</body>
+</html>

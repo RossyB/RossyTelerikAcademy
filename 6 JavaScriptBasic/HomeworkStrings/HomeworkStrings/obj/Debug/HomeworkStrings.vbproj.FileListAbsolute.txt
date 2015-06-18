@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\bin\HomeworkStrings.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\bin\HomeworkStrings.dll
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\bin\HomeworkStrings.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\bin\HomeworkStrings.xml
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\obj\Debug\HomeworkStrings.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\obj\Debug\HomeworkStrings.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\obj\Debug\HomeworkStrings.dll
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\obj\Debug\HomeworkStrings.xml
+D:\New courses\6 JavaScriptBasic\HomeworkStrings\HomeworkStrings\obj\Debug\HomeworkStrings.pdb

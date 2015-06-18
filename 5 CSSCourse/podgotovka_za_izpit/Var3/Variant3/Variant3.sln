@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task1", "Task1\", "{2536EFD2-CE3E-46F4-8F24-66534C2FD2EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Task1"
+		Debug.AspNetCompiler.PhysicalPath = "Task1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Task1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Task1"
+		Release.AspNetCompiler.PhysicalPath = "Task1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Task1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55933"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task2", "Task2\", "{BA9C659B-E4CA-434F-AB14-C7ECD902D2B8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Task2"
+		Debug.AspNetCompiler.PhysicalPath = "Task2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Task2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Task2"
+		Release.AspNetCompiler.PhysicalPath = "Task2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Task2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57109"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task3", "Task3\", "{85545C19-EA55-49DF-A729-0E4554EFAB25}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Task3"
+		Debug.AspNetCompiler.PhysicalPath = "Task3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Task3\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Task3"
+		Release.AspNetCompiler.PhysicalPath = "Task3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Task3\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57531"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2536EFD2-CE3E-46F4-8F24-66534C2FD2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2536EFD2-CE3E-46F4-8F24-66534C2FD2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9C659B-E4CA-434F-AB14-C7ECD902D2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9C659B-E4CA-434F-AB14-C7ECD902D2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85545C19-EA55-49DF-A729-0E4554EFAB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85545C19-EA55-49DF-A729-0E4554EFAB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

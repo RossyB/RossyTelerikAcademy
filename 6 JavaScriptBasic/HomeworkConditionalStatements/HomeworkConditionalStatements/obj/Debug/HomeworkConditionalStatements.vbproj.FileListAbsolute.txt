@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\bin\HomeworkConditionalStatements.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\bin\HomeworkConditionalStatements.dll
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\bin\HomeworkConditionalStatements.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\bin\HomeworkConditionalStatements.xml
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\obj\Debug\HomeworkConditionalStatements.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\obj\Debug\HomeworkConditionalStatements.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\obj\Debug\HomeworkConditionalStatements.dll
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\obj\Debug\HomeworkConditionalStatements.xml
+D:\New courses\6 JavaScriptBasic\HomeworkConditionalStatements\HomeworkConditionalStatements\obj\Debug\HomeworkConditionalStatements.pdb

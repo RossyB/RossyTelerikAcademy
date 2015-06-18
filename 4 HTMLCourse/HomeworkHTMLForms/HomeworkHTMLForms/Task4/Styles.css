@@ -1,0 +1,21 @@
+﻿body {
+}
+.table1 {
+    border: 1px solid;
+    width: 60%;
+    font-family: Verdana;
+    font-size: 14px;
+}
+th {
+    border-bottom: 1px solid;
+    height: 30px;
+    font-size: 16px;
+}
+.sliders {
+    text-align: center;
+    width: 25%;
+    font-size: 16px;
+}
+input[type="range"] {
+    width:150px;
+}

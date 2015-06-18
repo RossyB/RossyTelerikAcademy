@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\bin\HomeworkFunctions.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\bin\HomeworkFunctions.dll
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\bin\HomeworkFunctions.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\bin\HomeworkFunctions.xml
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\obj\Debug\HomeworkFunctions.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\obj\Debug\HomeworkFunctions.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\obj\Debug\HomeworkFunctions.dll
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\obj\Debug\HomeworkFunctions.xml
+D:\New courses\6 JavaScriptBasic\HomeworkFunctions\HomeworkFunctions\obj\Debug\HomeworkFunctions.pdb

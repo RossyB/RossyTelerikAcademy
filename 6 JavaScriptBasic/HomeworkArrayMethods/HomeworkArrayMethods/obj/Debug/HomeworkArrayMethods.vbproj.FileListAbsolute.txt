@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\bin\HomeworkArrayMethods.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\bin\HomeworkArrayMethods.dll
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\bin\HomeworkArrayMethods.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\bin\HomeworkArrayMethods.xml
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\obj\Debug\HomeworkArrayMethods.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\obj\Debug\HomeworkArrayMethods.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\obj\Debug\HomeworkArrayMethods.dll
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\obj\Debug\HomeworkArrayMethods.xml
+D:\New courses\6 JavaScriptBasic\HomeworkArrayMethods\HomeworkArrayMethods\obj\Debug\HomeworkArrayMethods.pdb

@@ -1,0 +1,101 @@
+﻿body, div, ul, li, a, span, img, legend, fieldset, select, option, textarea, button{
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+body{
+
+
+.invisible{
+    display: none;
+}
+
+.current{
+    font-weight: bold;
+}
+    div#wrapper{
+        width: 1024px;
+
+        ul{
+            width: 110px;
+            margin-top: 15px;
+            margin-left: 15px;
+            list-style-type: none;
+            position: absolute;
+
+            li {
+                border-top: 1px solid black;
+                padding: 5px;
+                padding-bottom: 7px;
+
+                &:last-of-type{
+                    border-bottom: 1px solid black;
+                }
+                a {
+                    text-decoration: none;
+                    color:black;
+
+                    img{
+                        width: 25px;
+                    }
+                }
+
+                div.popup-content{
+                    position: absolute;
+                    margin-left: 115px;
+                    margin-top: -35px;
+
+                    a.btn-popup-close{ 
+                        position: absolute;
+                        border: 1px solid black;
+                        padding: 0 5px;
+                        border-radius: 5px;
+                        margin-left: 175px;
+                        margin-top: 15px;
+
+                        &:hover{
+                            text-decoration: underline;
+                        }
+                    }
+
+                    div{
+
+                        fieldset{
+
+                            width: 192px;
+                            padding-top: 15px;
+                            padding-left: 15px;
+                            padding-bottom: 15px;
+
+                            legend{
+                                font-weight: bold;
+                                font-size: 1.2em;
+                                padding: 0 3px;
+                            }
+
+                            button{
+                                .linear-gradient (#cacaca, 0%, #686868, 100% );
+                                border: none;
+                                border-radius: 15px;
+                                padding: 5px 10px;
+
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

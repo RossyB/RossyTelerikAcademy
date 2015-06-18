@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SampleLogo", "http://localhost:58629", "{A5A0B63D-332A-471E-9C77-1D85691C3CC0}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58629"
+		Debug.AspNetCompiler.PhysicalPath = "SampleLogo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58629\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58629"
+		Release.AspNetCompiler.PhysicalPath = "SampleLogo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58629\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "SampleLogo\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Gallery", "Gallery\", "{C87787BA-768D-4E30-9E89-E965C6A4B1EE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/Gallery"
+		Debug.AspNetCompiler.PhysicalPath = "Gallery\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Gallery\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Gallery"
+		Release.AspNetCompiler.PhysicalPath = "Gallery\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Gallery\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55490"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A0B63D-332A-471E-9C77-1D85691C3CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A0B63D-332A-471E-9C77-1D85691C3CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87787BA-768D-4E30-9E89-E965C6A4B1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87787BA-768D-4E30-9E89-E965C6A4B1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

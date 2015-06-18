@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\bin\Vehicles.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\bin\Vehicles.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\bin\Vehicles.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\bin\Vehicles.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\obj\Debug\Vehicles.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\obj\Debug\Vehicles.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\obj\Debug\Vehicles.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\obj\Debug\Vehicles.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Vehicles\Vehicles\obj\Debug\Vehicles.pdb

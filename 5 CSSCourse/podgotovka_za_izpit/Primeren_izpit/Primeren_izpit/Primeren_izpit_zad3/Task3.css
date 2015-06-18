@@ -1,0 +1,95 @@
+body,
+div,
+ul,
+li,
+a,
+span,
+img,
+legend,
+fieldset,
+select,
+option,
+textarea,
+button {
+  margin: 0;
+  padding: 0;
+}
+body .invisible {
+  display: none;
+}
+body .current {
+  font-weight: bold;
+}
+body div#wrapper {
+  width: 1024px;
+}
+body div#wrapper ul {
+  width: 110px;
+  margin-top: 15px;
+  margin-left: 15px;
+  list-style-type: none;
+  position: absolute;
+}
+body div#wrapper ul li {
+  border-top: 1px solid black;
+  padding: 5px;
+  padding-bottom: 7px;
+}
+body div#wrapper ul li:last-of-type {
+  border-bottom: 1px solid black;
+}
+body div#wrapper ul li a {
+  text-decoration: none;
+  color: black;
+}
+body div#wrapper ul li a img {
+  width: 25px;
+}
+body div#wrapper ul li div.popup-content {
+  position: absolute;
+  margin-left: 115px;
+  margin-top: -35px;
+}
+body div#wrapper ul li div.popup-content a.btn-popup-close {
+  position: absolute;
+  border: 1px solid black;
+  padding: 0 5px;
+  border-radius: 5px;
+  margin-left: 175px;
+  margin-top: 15px;
+}
+body div#wrapper ul li div.popup-content a.btn-popup-close:hover {
+  text-decoration: underline;
+}
+body div#wrapper ul li div.popup-content div fieldset {
+  width: 192px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+body div#wrapper ul li div.popup-content div fieldset legend {
+  font-weight: bold;
+  font-size: 1.2em;
+  padding: 0 3px;
+}
+body div#wrapper ul li div.popup-content div fieldset button {
+  background: #cacaca;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #cacaca 0%, #686868 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cacaca), color-stop(100%, #686868));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #cacaca 0%, #686868 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #cacaca 0%, #686868 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #cacaca 0%, #686868 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #cacaca 0%, #686868 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cacaca', endColorstr='#686868', GradientType=0);
+  /* IE6-9 */
+  border: none;
+  border-radius: 15px;
+  padding: 5px 10px;
+}

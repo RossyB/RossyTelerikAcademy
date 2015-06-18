@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\bin\Paths.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\bin\Paths.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\bin\Paths.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\bin\Paths.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\obj\Debug\Paths.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\obj\Debug\Paths.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\obj\Debug\Paths.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\obj\Debug\Paths.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Paths\Paths\obj\Debug\Paths.pdb

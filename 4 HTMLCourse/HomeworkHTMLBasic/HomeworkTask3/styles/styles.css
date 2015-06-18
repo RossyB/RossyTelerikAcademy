@@ -1,0 +1,22 @@
+
+			body {
+                background-color:#c6faff;
+			}
+            img {
+                width: 150px;
+                border: 1px solid, black;
+            }
+			ul li{
+			font-weight:bold;
+			}
+            ul li span {
+                font-weight: normal;
+            }
+            ul.info {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+			dt {
+			font-style:italic;
+			}

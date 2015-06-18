@@ -1,0 +1,103 @@
+﻿body, div, ul, li, a, span, img  {
+    margin: 0;
+    padding: 0;
+}
+
+.linear-gradient (@from-color, @from-pos, @to-color, @to-pos ) {
+    background: @from-color; /* Old browsers */
+    background: -moz-linear-gradient(top, @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+    background: linear-gradient(to bottom, @from-color @from-pos,@to-color @to-pos); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+}
+
+body{
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    font-size: 16px;
+
+
+    img{
+        width: 15px;
+    }
+
+
+    #wrapper{
+        width: 960px;
+
+        .notification-list{
+            margin-left: 25px;
+            margin-top: 25px;
+            list-style-type: none;
+            position: relative;
+
+            & > li {
+                display: inline-block;
+                border: 1px solid black;
+                padding: 5px 15px;
+                .linear-gradient (#ababab, 0%, #dddddd, 100% );
+                
+
+                a {
+                    text-decoration: none;
+                    color: #777777;
+                    font-size: 1.2em;
+
+                }
+
+                &:first-of-type{
+                    border-top-left-radius: 15px;
+                }
+
+                &:last-of-type{
+                    border-top-right-radius: 15px;
+                }
+                
+                &:hover {
+                    border-bottom: none;
+                }
+
+                
+
+                .content{
+                    display: none;
+                    position: absolute;
+                    width: 470px;
+                    left: 0px;
+                    margin-top:5px;
+                    background-color: #d8d8d8;
+                    border: 1px solid black;
+                    font-size: 0.85em;
+
+
+                    & > ul {
+                        list-style-type: none;
+
+                        li {
+                            margin: 10px 15px;
+                            
+                            span {
+                                margin-left: 5px;
+                            }
+
+                            a:hover{
+                                text-decoration: underline;
+                            }
+                        }
+                    }
+             
+                }
+
+                &:hover{
+                    .content{
+                        display:block;
+                    }
+                }
+
+            }
+
+        }
+    }
+}

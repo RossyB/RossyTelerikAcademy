@@ -1,0 +1,51 @@
+body,
+div,
+ul,
+li,
+a,
+img {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+body #wrapper {
+  width: 960px;
+}
+body #wrapper ul {
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #8168ff 0%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #8168ff), color-stop(100%, #ffffff));
+  background: -webkit-linear-gradient(top, #8168ff 0%, #ffffff 100%);
+  background: -o-linear-gradient(top, #8168ff 0%, #ffffff 100%);
+  background: -ms-linear-gradient(top, #8168ff 0%, #ffffff 100%);
+  background: linear-gradient(to bottom, #8168ff 0%, #ffffff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8168ff', endColorstr='#ffffff', GradientType=0);
+  margin-top: 25px;
+  display: inline-block;
+  list-style-type: none;
+  width: 150px;
+  height: 200px;
+  overflow-y: scroll;
+}
+body #wrapper ul.all-items {
+  margin-left: 25px;
+}
+body #wrapper ul li {
+  padding: 5px 15px;
+  font-weight: 100;
+  border-bottom: 1px solid black;
+}
+body #wrapper ul li:first-letter {
+  text-decoration: underline;
+}
+body #wrapper ul li.selected {
+  background: #6c4eff;
+}
+body #wrapper a.btn-unselect,
+body #wrapper a.btn-select {
+  position: relative;
+  top: -80px;
+}

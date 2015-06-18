@@ -1,0 +1,133 @@
+﻿body {
+    font-family: Verdana, sans-serif;
+}
+.container {
+    margin: auto;
+    width: 800px;
+    background-color: #e6e6e6;
+    padding: 5px;
+}
+
+.left_side {
+    float: left;
+    width: 140px;
+
+}
+.icon-home { 
+    background: url(images/icon-home.png) no-repeat; 
+    margin-left: 10px;
+    height: auto;
+}
+.content {
+    margin-left: 10px;
+    width: 450px;
+    border : 1px solid black;
+    background-color: white;
+    padding: 10px;
+    float:left;
+}
+
+h1 {
+    font-size : 12px;
+    margin-left: 20px;
+}
+.content h1 {
+    margin-left: 0;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+}
+ 
+ul li a {
+    text-decoration: none;
+    
+}
+    ul li a:hover {
+        text-decoration: underline;
+    }
+
+    ul.main_menu li a {
+        color: #961917;
+        margin-left: 10px;
+        font-weight: bold;
+    }
+
+    ul.sub_menu li a {
+        color:black;
+        font-weight:normal;
+    }
+
+.pagination li { 
+    position: relative; 
+    display: inline-block;
+    border: 1px solid black;
+    padding: 2px 4px 2px 4px;
+    width : 70px;
+    text-align: center;
+}
+    .pagination li a {
+        color: black;
+    }
+        .prev::before, .next::after {
+            top: 3px;
+            
+        }
+        .prev:before {
+            left: 5px;
+            content: "◄";
+        }
+        .next::after {
+            right: 5px;
+            content: "►";
+        }
+
+.pull-left {
+    float: left;
+    margin-right: 10px;
+}
+article h1 {
+    background-color: #808080;
+    color: white;
+    padding: 2px;
+}
+
+article p {
+    font-size: 10px;
+}
+    article p a {
+        color: #961917;
+    }
+
+aside {
+    width: 150px;
+    float: left;
+    margin-left:10px;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 0;
+}
+    aside input[type="search"] {
+        width : 90px;
+    }
+    aside input[type="submit"] {
+        width : 30px;
+    }
+    aside h1 {
+        margin: 0;
+        background-color: #808080;
+    }
+
+.box {
+    border: 1px solid black;
+    background-color: white;
+    margin: 2px;
+    padding: 2px;
+}
+    .unstyled a {
+        color: #961917;
+        text-decoration: underline;
+    }

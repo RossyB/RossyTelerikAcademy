@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\bin\JoroTheNaughty.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\bin\JoroTheNaughty.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\bin\JoroTheNaughty.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\bin\JoroTheNaughty.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\obj\Debug\JoroTheNaughty.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\obj\Debug\JoroTheNaughty.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\obj\Debug\JoroTheNaughty.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\obj\Debug\JoroTheNaughty.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\JoroTheNaughty\JoroTheNaughty\obj\Debug\JoroTheNaughty.pdb

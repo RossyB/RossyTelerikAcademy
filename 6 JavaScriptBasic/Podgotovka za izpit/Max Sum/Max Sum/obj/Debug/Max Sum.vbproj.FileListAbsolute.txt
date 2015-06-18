@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\bin\Max Sum.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\bin\Max Sum.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\bin\Max Sum.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\bin\Max Sum.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\obj\Debug\Max_Sum.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\obj\Debug\Max Sum.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\obj\Debug\Max Sum.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\obj\Debug\Max Sum.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Max Sum\Max Sum\obj\Debug\Max Sum.pdb

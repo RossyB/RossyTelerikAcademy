@@ -1,0 +1,96 @@
+body,
+div,
+ul,
+li,
+a,
+span {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+  font-size: 16px;
+}
+body #wrapper {
+  width: 960px;
+}
+body #wrapper .msg-bar {
+  margin-top: 210px;
+  margin-left: 50px;
+  list-style-type: none;
+}
+body #wrapper .msg-bar > li {
+  display: inline-block;
+}
+body #wrapper .msg-bar > li a {
+  background: #13ffd2;
+  background: -moz-linear-gradient(top, #aaffef 0%, #13ffd2 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #aaffef), color-stop(100%, #13ffd2));
+  background: -webkit-linear-gradient(top, #aaffef 0%, #13ffd2 100%);
+  background: -o-linear-gradient(top, #aaffef 0%, #13ffd2 100%);
+  background: -ms-linear-gradient(top, #aaffef 0%, #13ffd2 100%);
+  background: linear-gradient(to bottom, #aaffef 0%, #13ffd2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#aaffef', endColorstr='#13ffd2', GradientType=0);
+  color: #0094ff;
+  text-decoration: none;
+  padding: 5px 15px;
+  border: 1px solid black;
+}
+body #wrapper .msg-bar > li:hover a {
+  background: #00ddb3;
+  border-top: none;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content {
+  display: block;
+  position: absolute;
+  left: 50px;
+  top: 40px;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul {
+  list-style-type: none;
+  width: 462px;
+  height: 150px;
+  border: 1px solid black;
+  border-bottom: none;
+  background: #aaffef;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding: 5px 0;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li {
+  margin: 5px 0;
+  zoom: 1;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li:after {
+  content: "";
+  display: block;
+  height: 0;
+  clear: both;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li span.user {
+  margin-left: 15px;
+  border: 1px solid black;
+  padding: 5px 15px;
+  padding-left: 25px;
+  color: #0094ff;
+  border-radius: 15px;
+  float: left;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li span {
+  color: #0094ff;
+  display: block;
+  border-bottom: 1px solid black;
+  text-align: right;
+  margin-right: 15px;
+  margin-left: 120px;
+  padding: 5px 10px;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li.me-item {
+  background: url(/task1/imgs/me.png) no-repeat left 20px top 5px;
+}
+body #wrapper .msg-bar > li:hover .msg-bar-content ul li.other-item {
+  background: url(/task1/imgs/male.png) no-repeat left 20px top 5px;
+}
+body #wrapper .msg-bar > li .msg-bar-content {
+  display: none;
+}

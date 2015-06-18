@@ -1,0 +1,22 @@
+﻿
+li:not(:hover) li {
+    display: none; 
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+    padding-left: 10px;
+}
+ 
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+    ul li a:hover {
+        text-decoration: underline;
+    }
+
+ul.sub_menu li a {
+    color:grey;
+}

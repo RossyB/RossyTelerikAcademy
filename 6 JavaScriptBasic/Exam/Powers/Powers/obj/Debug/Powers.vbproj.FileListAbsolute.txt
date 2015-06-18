@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\bin\Powers.dll.config
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\bin\Powers.dll
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\bin\Powers.pdb
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\bin\Powers.xml
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\obj\Debug\Powers.Resources.resources
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\obj\Debug\Powers.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\obj\Debug\Powers.dll
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\obj\Debug\Powers.xml
+D:\New courses\6 JavaScriptBasic\Exam\Powers\Powers\obj\Debug\Powers.pdb

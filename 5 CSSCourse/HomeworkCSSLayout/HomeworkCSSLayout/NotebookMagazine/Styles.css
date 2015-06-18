@@ -1,0 +1,62 @@
+﻿section{
+	border:2px groove rgb(128,128,128);
+	border-radius:5px;
+	width:650px;
+	font-size:12px;
+    font-family: Verdana, sans-serif;
+	}
+a{
+	font-weight:bold;
+	color:deepskyblue;
+	}
+div{
+	border:2px groove rgb(128,128,128);
+	width:430px;
+	padding:5px;
+	margin:10px;
+	line-height:20px;
+	}
+ul{
+	list-style-type:none;
+	padding:0;
+	margin:0;
+	
+	}
+li{
+	display:inline-block;
+	}
+hr{
+	width:95%;
+	}
+fieldset{
+	width:190px;
+	padding:5px;
+	border:2px groove rgb(128,128,128);
+	}
+img{
+	float:left;
+	width:115px;
+	}
+span{
+	padding-left:53px;
+	}	
+p{ 
+	padding:0;
+	margin:0;
+	margin-top:20px;
+	}
+
+header{
+	text-align:center;
+    height: 30px;
+	}
+form{
+	position:absolute;
+	left:500px;
+	top:180px;
+	}
+
+form ul li{
+	display:block;
+	line-height:30px;
+	}

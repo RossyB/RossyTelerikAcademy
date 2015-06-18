@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\bin\HomeworkRegularExpressions.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\bin\HomeworkRegularExpressions.dll
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\bin\HomeworkRegularExpressions.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\bin\HomeworkRegularExpressions.xml
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\obj\Debug\HomeworkRegularExpressions.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\obj\Debug\HomeworkRegularExpressions.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\obj\Debug\HomeworkRegularExpressions.dll
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\obj\Debug\HomeworkRegularExpressions.xml
+D:\New courses\6 JavaScriptBasic\HomeworkRegularExpressions\HomeworkRegularExpressions\obj\Debug\HomeworkRegularExpressions.pdb

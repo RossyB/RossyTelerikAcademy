@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\bin\HomeworkDataTypesAndVariables.dll.config
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\bin\HomeworkDataTypesAndVariables.dll
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\bin\HomeworkDataTypesAndVariables.pdb
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\bin\HomeworkDataTypesAndVariables.xml
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\obj\Debug\HomeworkDataTypesAndVariables.Resources.resources
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\obj\Debug\HomeworkDataTypesAndVariables.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\obj\Debug\HomeworkDataTypesAndVariables.dll
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\obj\Debug\HomeworkDataTypesAndVariables.xml
+D:\New courses\6 JavaScriptBasic\HomeworkDataTypesAndVariables\HomeworkDataTypesAndVariables\obj\Debug\HomeworkDataTypesAndVariables.pdb

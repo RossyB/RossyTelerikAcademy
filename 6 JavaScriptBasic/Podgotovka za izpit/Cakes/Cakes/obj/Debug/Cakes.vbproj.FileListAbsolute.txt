@@ -1,0 +1,9 @@
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\bin\Cakes.dll.config
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\bin\Cakes.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\bin\Cakes.pdb
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\bin\Cakes.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\obj\Debug\Cakes.Resources.resources
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\obj\Debug\Cakes.vbproj.GenerateResource.Cache
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\obj\Debug\Cakes.dll
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\obj\Debug\Cakes.xml
+D:\New courses\6 JavaScriptBasic\Podgotovka za izpit\Cakes\Cakes\obj\Debug\Cakes.pdb

@@ -1,0 +1,40 @@
+﻿body {
+}
+table { border-collapse:collapse;
+        font-family:Arial;
+        width:500px;
+}
+td {padding:6px;
+    border:1px solid;
+}
+#lastname, #firstname, #address, #comments, #email {
+    width:95%;
+}
+#birthmonth, #birthday {
+    width:10%;
+    margin-right:4px;
+}
+#birthyear {
+    width:15%;
+}
+#countrycode, #areacode, #zip {
+    width:17%;
+}
+#city {
+    width:55%;
+    margin-right:6px;
+}
+#state {
+    width: 23%;
+    }
+#number {
+    width: 43%; 
+}
+td.right { 
+    text-align:right;  
+    width:20%;   
+}
+td.footer {
+    background-color:lightcyan; 
+    text-align:center;
+}
