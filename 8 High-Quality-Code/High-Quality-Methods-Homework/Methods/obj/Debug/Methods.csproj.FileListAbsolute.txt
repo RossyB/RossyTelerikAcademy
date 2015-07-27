@@ -1,0 +1,5 @@
+D:\New courses\8 High-Quality-Code\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\New courses\8 High-Quality-Code\High-Quality-Methods-Homework\Methods\bin\Debug\Methods.exe
+D:\New courses\8 High-Quality-Code\High-Quality-Methods-Homework\Methods\bin\Debug\Methods.pdb
+D:\New courses\8 High-Quality-Code\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.exe
+D:\New courses\8 High-Quality-Code\High-Quality-Methods-Homework\Methods\obj\Debug\Methods.pdb

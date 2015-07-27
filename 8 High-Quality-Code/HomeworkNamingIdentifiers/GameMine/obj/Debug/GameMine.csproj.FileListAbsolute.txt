@@ -1,0 +1,5 @@
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\GameMine\bin\Debug\GameMine.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\GameMine\bin\Debug\GameMine.exe
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\GameMine\bin\Debug\GameMine.pdb
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\GameMine\obj\Debug\GameMine.exe
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\GameMine\obj\Debug\GameMine.pdb

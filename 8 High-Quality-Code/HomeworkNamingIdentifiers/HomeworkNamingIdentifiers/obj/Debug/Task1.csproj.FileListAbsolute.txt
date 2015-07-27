@@ -1,0 +1,6 @@
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\bin\Debug\HomeworkNamingIdentifiers.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\bin\Debug\HomeworkNamingIdentifiers.exe
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\bin\Debug\HomeworkNamingIdentifiers.pdb
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\obj\Debug\HomeworkNamingIdentifiers.exe
+D:\New courses\8 High-Quality-Code\HomeworkNamingIdentifiers\HomeworkNamingIdentifiers\obj\Debug\HomeworkNamingIdentifiers.pdb

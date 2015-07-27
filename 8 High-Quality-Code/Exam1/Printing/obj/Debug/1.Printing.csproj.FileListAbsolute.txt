@@ -1,0 +1,3 @@
+D:\New courses\8 High-Quality-Code\Exam1\Printing\bin\Debug\Printing.exe.config
+D:\New courses\8 High-Quality-Code\Exam1\Printing\obj\Debug\Printing.exe
+D:\New courses\8 High-Quality-Code\Exam1\Printing\obj\Debug\Printing.pdb

@@ -1,0 +1,6 @@
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\bin\ExamJSOOP.dll.config
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\bin\ExamJSOOP.dll
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\bin\ExamJSOOP.pdb
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\obj\Debug\ExamJSOOP.csprojResolveAssemblyReference.cache
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\obj\Debug\ExamJSOOP.dll
+D:\New courses\7 JavaScript OOP\Exam\ExamJSOOP\ExamJSOOP\obj\Debug\ExamJSOOP.pdb

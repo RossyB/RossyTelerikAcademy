@@ -1,0 +1,8 @@
+D:\New courses\C#Exam1\Exam1\Cube\bin\Debug\Cube.exe.config
+D:\New courses\C#Exam1\Exam1\Cube\bin\Debug\Cube.exe
+D:\New courses\C#Exam1\Exam1\Cube\bin\Debug\Cube.pdb
+D:\New courses\C#Exam1\Exam1\Cube\obj\Debug\Cube.exe
+D:\New courses\C#Exam1\Exam1\Cube\obj\Debug\Cube.pdb
+D:\New courses\8 High-Quality-Code\Exam1\Cube\bin\Debug\Cube.exe.config
+D:\New courses\8 High-Quality-Code\Exam1\Cube\obj\Debug\Cube.exe
+D:\New courses\8 High-Quality-Code\Exam1\Cube\obj\Debug\Cube.pdb

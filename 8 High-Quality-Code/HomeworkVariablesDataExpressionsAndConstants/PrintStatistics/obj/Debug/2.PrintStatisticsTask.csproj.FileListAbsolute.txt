@@ -1,0 +1,6 @@
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\bin\Debug\PrintStatistics.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\bin\Debug\PrintStatistics.exe
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\bin\Debug\PrintStatistics.pdb
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\obj\Debug\2.PrintStatisticsTask.csprojResolveAssemblyReference.cache
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\obj\Debug\PrintStatistics.exe
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\PrintStatistics\obj\Debug\PrintStatistics.pdb

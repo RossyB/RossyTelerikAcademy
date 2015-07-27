@@ -1,0 +1,6 @@
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\bin\Exersises.dll.config
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\bin\Exersises.dll
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\bin\Exersises.pdb
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\obj\Debug\Exersises.csprojResolveAssemblyReference.cache
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\obj\Debug\Exersises.dll
+D:\New courses\7 JavaScript OOP\Exersises\Exersises\obj\Debug\Exersises.pdb

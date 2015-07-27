@@ -1,0 +1,6 @@
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\bin\podgotovka.dll.config
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\bin\podgotovka.dll
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\bin\podgotovka.pdb
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\obj\Debug\podgotovka.csprojResolveAssemblyReference.cache
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\obj\Debug\podgotovka.dll
+D:\New courses\7 JavaScript OOP\podgotovka\podgotovka\obj\Debug\podgotovka.pdb

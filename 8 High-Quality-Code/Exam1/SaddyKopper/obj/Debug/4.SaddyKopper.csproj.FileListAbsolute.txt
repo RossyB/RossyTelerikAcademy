@@ -1,0 +1,9 @@
+D:\New courses\C#Exam1\Exam1\SaddyKopper\bin\Debug\SaddyKopper.exe.config
+D:\New courses\C#Exam1\Exam1\SaddyKopper\bin\Debug\SaddyKopper.exe
+D:\New courses\C#Exam1\Exam1\SaddyKopper\bin\Debug\SaddyKopper.pdb
+D:\New courses\C#Exam1\Exam1\SaddyKopper\obj\Debug\SaddyKopper.exe
+D:\New courses\C#Exam1\Exam1\SaddyKopper\obj\Debug\SaddyKopper.pdb
+D:\New courses\C#Exam1\Exam1\SaddyKopper\obj\Debug\4.SaddyKopper.csprojResolveAssemblyReference.cache
+D:\New courses\8 High-Quality-Code\Exam1\SaddyKopper\bin\Debug\SaddyKopper.exe.config
+D:\New courses\8 High-Quality-Code\Exam1\SaddyKopper\obj\Debug\SaddyKopper.exe
+D:\New courses\8 High-Quality-Code\Exam1\SaddyKopper\obj\Debug\SaddyKopper.pdb

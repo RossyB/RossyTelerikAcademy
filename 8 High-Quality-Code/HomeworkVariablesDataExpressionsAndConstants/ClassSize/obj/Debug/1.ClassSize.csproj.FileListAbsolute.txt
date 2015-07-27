@@ -1,0 +1,6 @@
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\HomeworkVariablesDataExpressionsAndConstants\bin\Debug\HomeworkVariablesDataExpressionsAndConstants.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\ClassSize\bin\Debug\HomeworkVariablesDataExpressionsAndConstants.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\ClassSize\bin\Debug\HomeworkVariablesDataExpressionsAndConstants.exe
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\ClassSize\bin\Debug\HomeworkVariablesDataExpressionsAndConstants.pdb
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\ClassSize\obj\Debug\HomeworkVariablesDataExpressionsAndConstants.exe
+D:\New courses\8 High-Quality-Code\HomeworkVariablesDataExpressionsAndConstants\ClassSize\obj\Debug\HomeworkVariablesDataExpressionsAndConstants.pdb

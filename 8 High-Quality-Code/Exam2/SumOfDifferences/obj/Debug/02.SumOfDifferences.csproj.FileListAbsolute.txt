@@ -1,0 +1,3 @@
+D:\New courses\8 High-Quality-Code\Exam2\SumOfDifferences\bin\Debug\SumOfDifferences.exe.config
+D:\New courses\8 High-Quality-Code\Exam2\SumOfDifferences\obj\Debug\SumOfDifferences.exe
+D:\New courses\8 High-Quality-Code\Exam2\SumOfDifferences\obj\Debug\SumOfDifferences.pdb

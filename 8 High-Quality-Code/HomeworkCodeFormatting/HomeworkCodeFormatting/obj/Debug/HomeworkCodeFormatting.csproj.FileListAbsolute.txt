@@ -1,0 +1,9 @@
+D:\New courses\7 JavaScript OOP\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\HomeworkCodeFormatting.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\HomeworkCodeFormatting.exe.config
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\HomeworkCodeFormatting.exe
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\HomeworkCodeFormatting.pdb
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\PowerCollections.dll
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\bin\Debug\PowerCollections.xml
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\obj\Debug\HomeworkCodeFormatting.csprojResolveAssemblyReference.cache
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\obj\Debug\HomeworkCodeFormatting.exe
+D:\New courses\8 High-Quality-Code\HomeworkCodeFormatting\HomeworkCodeFormatting\obj\Debug\HomeworkCodeFormatting.pdb

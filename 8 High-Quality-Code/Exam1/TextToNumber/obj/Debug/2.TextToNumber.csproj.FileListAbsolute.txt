@@ -1,0 +1,3 @@
+D:\New courses\8 High-Quality-Code\Exam1\TextToNumber\bin\Debug\TextToNumber.exe.config
+D:\New courses\8 High-Quality-Code\Exam1\TextToNumber\obj\Debug\TextToNumber.exe
+D:\New courses\8 High-Quality-Code\Exam1\TextToNumber\obj\Debug\TextToNumber.pdb

@@ -1,0 +1,6 @@
+D:\New courses\C#Part2\Solution1\MathProblem\bin\Debug\MathProblem.exe.config
+D:\New courses\C#Part2\Solution1\MathProblem\bin\Debug\MathProblem.exe
+D:\New courses\C#Part2\Solution1\MathProblem\bin\Debug\MathProblem.pdb
+D:\New courses\C#Part2\Solution1\MathProblem\obj\Debug\MathProblem.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\Solution1\MathProblem\obj\Debug\MathProblem.exe
+D:\New courses\C#Part2\Solution1\MathProblem\obj\Debug\MathProblem.pdb

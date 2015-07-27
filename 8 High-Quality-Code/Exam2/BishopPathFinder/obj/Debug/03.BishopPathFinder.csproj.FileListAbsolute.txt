@@ -1,0 +1,12 @@
+D:\New courses\C#Part2\Solution1\BishopPathFinder\bin\Debug\BishopPathFinder.exe.config
+D:\New courses\C#Part2\Solution1\BishopPathFinder\bin\Debug\BishopPathFinder.exe
+D:\New courses\C#Part2\Solution1\BishopPathFinder\bin\Debug\BishopPathFinder.pdb
+D:\New courses\C#Part2\Solution1\BishopPathFinder\obj\Debug\03.BishopPathFinder.csprojResolveAssemblyReference.cache
+D:\New courses\C#Part2\Solution1\BishopPathFinder\obj\Debug\BishopPathFinder.exe
+D:\New courses\C#Part2\Solution1\BishopPathFinder\obj\Debug\BishopPathFinder.pdb
+D:\New courses\C#Part2\Exam2\BishopPathFinder\bin\Debug\BishopPathFinder.exe.config
+D:\New courses\C#Part2\Exam2\BishopPathFinder\obj\Debug\BishopPathFinder.exe
+D:\New courses\C#Part2\Exam2\BishopPathFinder\obj\Debug\BishopPathFinder.pdb
+D:\New courses\8 High-Quality-Code\Exam2\BishopPathFinder\bin\Debug\BishopPathFinder.exe.config
+D:\New courses\8 High-Quality-Code\Exam2\BishopPathFinder\obj\Debug\BishopPathFinder.exe
+D:\New courses\8 High-Quality-Code\Exam2\BishopPathFinder\obj\Debug\BishopPathFinder.pdb

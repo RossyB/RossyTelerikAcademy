@@ -1,9 +1,0 @@
-D:\New courses\6 JavaScriptBasic\proba\proba\bin\proba.dll.config
-D:\New courses\6 JavaScriptBasic\proba\proba\bin\proba.dll
-D:\New courses\6 JavaScriptBasic\proba\proba\bin\proba.pdb
-D:\New courses\6 JavaScriptBasic\proba\proba\bin\proba.xml
-D:\New courses\6 JavaScriptBasic\proba\proba\obj\Debug\proba.Resources.resources
-D:\New courses\6 JavaScriptBasic\proba\proba\obj\Debug\proba.vbproj.GenerateResource.Cache
-D:\New courses\6 JavaScriptBasic\proba\proba\obj\Debug\proba.dll
-D:\New courses\6 JavaScriptBasic\proba\proba\obj\Debug\proba.xml
-D:\New courses\6 JavaScriptBasic\proba\proba\obj\Debug\proba.pdb
